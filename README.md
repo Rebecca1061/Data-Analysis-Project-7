@@ -13,7 +13,7 @@ The following was the isnsighted reported-
 
 >January was the month with maximum sales of 116291.8680$ revenue.
 
->Highest revengue generating product line-"Food and beverages"	56144.8440$
+>Highest revenue generating product line-"Food and beverages"	56144.8440$
 
 >Product line highest tax(VAT)-"Home and lifestyle"	16.0303312500000000$.
 
